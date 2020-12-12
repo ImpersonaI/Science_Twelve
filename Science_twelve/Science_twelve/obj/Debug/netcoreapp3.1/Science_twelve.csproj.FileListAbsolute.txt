@@ -1,0 +1,13 @@
+C:\Users\Роман\source\repos\Science_twelve\Science_twelve\bin\Debug\netcoreapp3.1\Science_twelve.exe
+C:\Users\Роман\source\repos\Science_twelve\Science_twelve\bin\Debug\netcoreapp3.1\Science_twelve.deps.json
+C:\Users\Роман\source\repos\Science_twelve\Science_twelve\bin\Debug\netcoreapp3.1\Science_twelve.runtimeconfig.json
+C:\Users\Роман\source\repos\Science_twelve\Science_twelve\bin\Debug\netcoreapp3.1\Science_twelve.runtimeconfig.dev.json
+C:\Users\Роман\source\repos\Science_twelve\Science_twelve\bin\Debug\netcoreapp3.1\Science_twelve.dll
+C:\Users\Роман\source\repos\Science_twelve\Science_twelve\bin\Debug\netcoreapp3.1\Science_twelve.pdb
+C:\Users\Роман\source\repos\Science_twelve\Science_twelve\obj\Debug\netcoreapp3.1\Science_twelve.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\Science_twelve\Science_twelve\obj\Debug\netcoreapp3.1\Science_twelve.AssemblyInfoInputs.cache
+C:\Users\Роман\source\repos\Science_twelve\Science_twelve\obj\Debug\netcoreapp3.1\Science_twelve.AssemblyInfo.cs
+C:\Users\Роман\source\repos\Science_twelve\Science_twelve\obj\Debug\netcoreapp3.1\Science_twelve.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\Science_twelve\Science_twelve\obj\Debug\netcoreapp3.1\Science_twelve.dll
+C:\Users\Роман\source\repos\Science_twelve\Science_twelve\obj\Debug\netcoreapp3.1\Science_twelve.pdb
+C:\Users\Роман\source\repos\Science_twelve\Science_twelve\obj\Debug\netcoreapp3.1\Science_twelve.genruntimeconfig.cache
